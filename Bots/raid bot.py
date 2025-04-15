@@ -264,4 +264,4 @@ Commands:
 """)
 
 # --- RUN THE BOT ---
-bot.run("")
+os.getenv("DISCORD_TOKEN")
